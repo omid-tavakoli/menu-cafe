@@ -1,0 +1,321 @@
+{
+  "hotDrinks": [
+    {
+      "name": "اسپرسو",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "قهوه اسپرسو عربیکا 80/20",
+      "discount": 0
+    },
+    {
+      "name": "اسپرسو",
+      "price": 50000,
+      "img": "/essperso.jpg",
+      "description": "قهوه اسپرسو روبوستا 70/30",
+      "discount": 0
+    },
+    {
+      "name": "آمریکانو",
+      "price": 55000,
+      "img": "/essperso.jpg",
+      "description": " اسپرسو روبوستا 70/30 + آبجوش",
+      "discount": 0
+    },
+    {
+      "name": "آمریکانو",
+      "price": 65000,
+      "img": "/essperso.jpg",
+      "description": " اسپرسو عربیکا 80/20 + آبجوش",
+      "discount": 0
+    },
+    {
+      "name": "کاپوچینو",
+      "price": 75000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو  + شیر",
+      "discount": 0
+    },
+    {
+      "name": "لاته",
+      "price": 80000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو  + شیر",
+      "discount": 0
+    },
+    {
+      "name": "ماکیاتو",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو روبوستا 70/30 + شیر",
+      "discount": 0
+    },
+    {
+      "name": "ماکیاتو",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو عربیکا 80/20 + شیر",
+      "discount": 0
+    },
+    {
+      "name": "موکا",
+      "price": 85000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو + شیر +سیروپ شکلات",
+      "discount": 0
+    },
+    {
+      "name": "کارامل ماکیاتو",
+      "price": 85000,
+      "img": "/essperso.jpg",
+      "description": "  اسپرسو + شیر + سیروپ کارامل ",
+      "discount": 0
+    },
+    {
+      "name": "کورتادو",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو + شیر",
+      "discount": 0
+    },
+    {
+      "name": "هات چاکلت",
+      "price": 65000,
+      "img": "/essperso.jpg",
+      "description": "شکلات داغ +‌ شیر",
+      "discount": 0
+    },
+    {
+      "name": " هات چاکلت فندقی",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": "شکلات +‌ شیر+ فندق",
+      "discount": 0
+    },
+    {
+      "name": " هات پسته زعفرانی",
+      "price": 100000,
+      "img": "/essperso.jpg",
+      "description": "پسته +‌ زعفران +‌شکلات سفید",
+      "discount": 0
+    },
+    {
+      "name": "وایت چاکلت",
+      "price": 100000,
+      "img": "/essperso.jpg",
+      "description": "شکلات سفید +‌ شیر",
+      "discount": 0
+    },
+    {
+      "name": "شیر عسل دارچین",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": "شیر + دارچین +‌ عسل",
+      "discount": 0
+    },
+    {
+      "name": "چای ماسالا",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "چای سیاه +‌شیر + ادویه",
+      "discount": 0
+    },
+    {
+      "name": "چای کرک",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": " شیر + ادویه +‌ زعفران",
+      "discount": 0
+    },
+    {
+      "name": "چای نبات",
+      "price": 25000,
+      "img": "/essperso.jpg",
+      "description": "چای سیاه +‌ ‌ نبات",
+      "discount": 0
+    },
+    {
+      "name": "چای",
+      "price": 20000,
+      "img": "/essperso.jpg",
+      "description": "چای سیاه",
+      "discount": 0
+    },
+    {
+      "name": "دورچین چای",
+      "price": 10000,
+      "img": "/essperso.jpg",
+      "description": "‌‌ خرما ارده",
+      "discount": 0
+    }
+  ],
+  "coldDrinks": [
+    {
+      "name": "آیس‌ لاته",
+      "price": 90000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو  + شیر‌ + یخ",
+      "discount": 0
+    },
+    {
+      "name": "آیس‌ لاته فندقی",
+      "price": 95000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو  + شیر‌+ سیروپ فندق + یخ",
+      "discount": 0
+    },
+    {
+      "name": " آیس موکا",
+      "price": 95000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو + شیر +سیروپ شکلات + یخ",
+      "discount": 0
+    },
+    {
+      "name": " آیس کارامل ماکیاتو",
+      "price": 95000,
+      "img": "/essperso.jpg",
+      "description": " اسپرسو + شیر + سیروپ کارامل + یخ",
+      "discount": 0
+    },
+    {
+      "name": "آیس آمریکانو",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": " اسپرسو روبوستا 70/30 + آبجوش",
+      "discount": 0
+    },
+    {
+      "name": "آیس آمریکانو",
+      "price": 80000,
+      "img": "/essperso.jpg",
+      "description": " اسپرسو عربیکا 80/20 + آبجوش",
+      "discount": 0
+    },
+    {
+      "name": "افاگاتو",
+      "price": 75000,
+      "img": "/essperso.jpg",
+      "description": "اسپرسو + بستنی",
+      "discount": 0
+    }
+  ],
+  "desserts": [
+    {
+      "name": "کیک سه شیر",
+      "price": 90000,
+      "img": "/essperso.jpg",
+      "description": "شیر +‌ شیر نارگیل + شیر عسل",
+      "discount": 0
+    },
+    {
+      "name": "کوکی",
+      "price": 20000,
+      "img": "/essperso.jpg",
+      "description": "کوکی شکلاتی",
+      "discount": 0
+    },
+    {
+      "name": "کوکی رژیمی",
+      "price": 30000,
+      "img": "/essperso.jpg",
+      "description": "کوکی شکلاتی",
+      "discount": 0
+    },
+    {
+      "name": "برونئی",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": "برونئی شکلاتی",
+      "discount": 0
+    },
+    {
+      "name": "تارت توت فرنگی",
+      "price": 180000,
+      "img": "/essperso.jpg",
+      "description": "تارت توت فرنگی",
+      "discount": 0
+    },
+    {
+      "name": "اسنیکرز",
+      "price": 90000,
+      "img": "/essperso.jpg",
+      "description": "اسنیکرز",
+      "discount": 0
+    },
+    {
+      "name": "چیز کیک",
+      "price": 110000,
+      "img": "/essperso.jpg",
+      "description": " چیز کیک لوتوس",
+      "discount": 0
+    },
+    {
+      "name": "باقلوا ترکی",
+      "price": 30000,
+      "img": "/essperso.jpg",
+      "description": "باقلوا ترکی",
+      "discount": 0
+    }
+  ],
+  "sandwich": [],
+  "breakfast": [
+    {
+      "name": "املت",
+      "price": 70000,
+      "img": "/essperso.jpg",
+      "description": "املت +‌ خیارشور + پیاز + نان",
+      "discount": 0
+    },
+    {
+      "name": "عدسی",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "عدسی + لیمو + نان",
+      "discount": 0
+    },
+    {
+      "name": "صبحانه ایرانی",
+      "price": 50000,
+      "img": "/essperso.jpg",
+      "description": "صبحانه ایرانی + نان",
+      "discount": 0
+    }
+  ],
+  "damnush": [
+    {
+      "name": "استرابری کیس",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "توت فرنگی+ انبه + اناناس + سیب + پاپایا +‌شیرین بیان + آلوئه ورا",
+      "discount": 0
+    },
+    {
+      "name": "پینک رز",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "گل محمدی+  گل لاواندر + گل بابونه",
+      "discount": 0
+    },
+    {
+      "name": "لاوندر دریم",
+      "price": 60000,
+      "img": "/essperso.jpg",
+      "description": "چای سیز + برگ لاوند +‌ گل لاوند",
+      "discount": 0
+    },
+    {
+      "name": "شیراز",
+      "price": 40000,
+      "img": "/essperso.jpg",
+      "description": "به + گلابی + غنچه یاس + پوست پرتغال",
+      "discount": 0
+    },
+    {
+      "name": "راه ابریشم",
+      "price": 40000,
+      "img": "/essperso.jpg",
+      "description": "چای سبز +‌اناناس + به لیمو + لمون گرس + استویا",
+      "discount": 0
+    }
+  ]
+}

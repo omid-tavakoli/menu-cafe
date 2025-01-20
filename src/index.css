@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: "Dana Regular";
+    src: url(/font/DanaFaNum-Regular.woff2);
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Dana DemiBold";
+    src: url(/font/DanaFaNum-DemiBold.woff2);
+    font-display: swap;
+  }
+
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #b0b0b0;
+    border-radius: 5px;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #4f4f4f;
+    border-radius: 5px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #2c2c2c;
+  }
+}
+
+@layer components {
+  .headerItem{
+    @apply flex flex-col gap-2 items-center cursor-pointer w-20 sm:w-40;
+  }
+  .product {
+    @apply rounded-2xl p-2 md:p-5 dark:bg-zinc-700 bg-white shadow-sm;
+  }
+    html.dark .products {
+      background-image: url("/bg-products.png");
+    }
+    .products {
+      background: linear-gradient(
+          rgba(243, 244, 246, 0.65),
+          rgba(243, 244, 246, 0.65)
+        ),
+        url("/bg-products.png");
+      background-size: 100%;
+      background-repeat: no-repeat;
+    }
+
+  .discount {
+    @apply flex items-center font-DanaBold absolute bg-orange-300 top-1.5 right-1.5 text-white dark:text-zinc-700 text-sm md:text-base px-2.5 md:px-3.5 h-5 md:h-[30px] rounded-full;
+  }
+
+  .offer::after {
+    content: "";
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    background-color: #ef4444;
+    inset: 0;
+    margin: auto;
+  }
+
+  .swiper-button-next-custom,
+  .swiper-button-prev-custom {
+    @apply center w-9 h-9 md:w-10 md:h-10 shadow-custom bg-white text-zinc-700 dark:text-white dark:bg-zinc-700 rounded-full;
+  }
+
+  .icon-coffee-club {
+    @apply flex flex-col justify-center items-center w-[72px] h-[72px] md:w-[98px] md:h-[98px] bg-white text-xs md:text-sm text-emerald-600 rounded-2xl py-1.5 md:pt-5 md:pb-1;
+  }
+
+  .blog-image {
+    @apply relative shrink-0 w-[130px] h-[130px] sm:w-auto sm:h-auto rounded-2xl rounded-bl-4xl sm:mb-4 overflow-hidden;
+  }
+
+  .blog {
+    @apply flex gap-2.5 sm:block p-2.5 md:pb-2 rounded-2xl dark:bg-zinc-700 bg-white shadow-custom;
+  }
+
+  .box-hover {
+    @apply absolute inset-0 hidden bg-gradient-to-r from-orange-200/80 to-orange-300/80 opacity-0 group-hover:opacity-100 md:center transition-all delay-100;
+  }
+
+  .icon-hover {
+    @apply w-[138px] h-[54px] text-amber-900;
+  }
+
+  .history {
+    @apply flex flex-col items-center -mt-1 dark:text-emerald-500 text-teal-600 ml-[12px] lg:ml-[18px];
+  }
+
+  .dot {
+    @apply inline-block w-1 h-1 bg-zinc-700 dark:bg-gray-400 rounded-full
+  }
+
+  .items-service {
+    @apply flex flex-col items-center sm:flex-row gap-y-5 gap-x-4 w-1/2 lg:w-auto text-center md:text-right;
+  }
+  .section-container {
+    @apply flex justify-between;
+  }
+  .section-title {
+    @apply font-DanaBold text-zinc-700 dark:text-white text-2xl md:text-5xl;
+  }
+  .section-subtitle {
+    @apply inline-block font-DanaBold mt-0.5 md:mt-1.5 text-zinc-700 dark:text-white text-lg md:text-3xl;
+  }
+  .section-link {
+    @apply flex items-center h-10 pr-3 pl-1  md:gap-x-1  md:hover:bg-orange-300/20 rounded-md tracking-tighter text-base md:text-xl text-orange-300 transition-colors;
+  }
+  @media screen and (max-width: 305px) {
+    .section-title {
+      @apply text-xl;
+    }
+    .section-subtitle {
+      @apply text-base;
+    }
+    .section-link {
+      @apply text-xs;
+    }
+  }
+}
