@@ -18,31 +18,31 @@
          <g id="g619" clip-path="url(#clipPath623)">
             <g id="g625" transform="translate(3,8)">
                <path d="m 0,0 c -2,0 -2,2 -2,2 0,4.971 4.925,9 11,9 6.075,0 11,-4.029 11,-9 0,0 0,-2 -2,-2"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path627" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path627" />
             </g>
             <g id="g629" transform="translate(14,21)">
                <path d="m 0,0 c 0,-1.104 -0.896,-2 -2,-2 -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 1.104,0 2,-0.896 2,-2 z"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path631" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path631" />
             </g>
             <g id="g633" transform="translate(8,9)">
                <path d="m 0,0 c 0,-1.104 0.896,-2 2,-2 1.104,0 2,0.896 2,2"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path635" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path635" />
             </g>
             <g id="g637" transform="translate(12,9)">
                <path d="m 0,0 c 0,-1.104 0.896,-2 2,-2 1.104,0 2,0.896 2,2"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path639" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path639" />
             </g>
             <g id="g641" transform="translate(16,9)">
                <path d="m 0,0 c 0,-1.104 0.896,-2 2,-2 1.104,0 2,0.896 2,2"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path643" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path643" />
             </g>
             <g id="g645" transform="translate(4,9)">
                <path d="m 0,0 c 0,-1.104 0.896,-2 2,-2 1.104,0 2,0.896 2,2"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path647" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path647" />
             </g>
             <g id="g649" transform="translate(20,8)">
                <path d="M 0,0 H 1 L 0.049,-5.351 C -0.121,-6.305 -0.951,-7 -1.92,-7 h -12.159 c -0.969,0 -1.799,0.695 -1.969,1.649 L -17,0 h 1"
-                  style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path651" />
+                  style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" id="path651" />
             </g>
          </g>
       </g>

@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        'Dana' : 'Dana Regular',
-        'DanaBold' : 'Dana DemiBold',
+        'Rokh' : 'Rokh Medium',
+        'RokhBold' : 'Rokh Bold',
       },
     },
   },
