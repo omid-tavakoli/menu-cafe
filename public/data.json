@@ -2,91 +2,91 @@
   "hotDrinks": [
     {
       "name": "اسپرسو",
-      "price": 60000,
+      "price": 68000,
       "img": "/logoitem.png",
       "description": "قهوه اسپرسو عربیکا 80/20",
       "discount": 0
     },
     {
       "name": "اسپرسو",
-      "price": 50000,
+      "price": 58000,
       "img": "/logoitem.png",
       "description": "قهوه اسپرسو روبوستا 70/30",
       "discount": 0
     },
     {
       "name": "آمریکانو",
-      "price": 55000,
+      "price": 68000,
       "img": "/logoitem.png",
       "description": " اسپرسو روبوستا 70/30 + آبجوش",
       "discount": 0
     },
     {
       "name": "آمریکانو",
-      "price": 65000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": " اسپرسو عربیکا 80/20 + آبجوش",
       "discount": 0
     },
     {
       "name": "کاپوچینو",
-      "price": 75000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": "اسپرسو  + شیر",
       "discount": 0
     },
     {
       "name": "لاته",
-      "price": 80000,
+      "price": 88000,
       "img": "/logoitem.png",
       "description": "اسپرسو  + شیر",
       "discount": 0
     },
     {
       "name": "ماکیاتو",
-      "price": 60000,
+      "price": 59000,
       "img": "/logoitem.png",
       "description": "اسپرسو روبوستا 70/30 + شیر",
       "discount": 0
     },
     {
       "name": "ماکیاتو",
-      "price": 70000,
+      "price": 69000,
       "img": "/logoitem.png",
       "description": "اسپرسو عربیکا 80/20 + شیر",
       "discount": 0
     },
     {
       "name": "موکا",
-      "price": 85000,
+      "price": 92000,
       "img": "/logoitem.png",
       "description": "اسپرسو + شیر +سیروپ شکلات",
       "discount": 0
     },
     {
       "name": "کارامل ماکیاتو",
-      "price": 85000,
+      "price": 92000,
       "img": "/logoitem.png",
       "description": "  اسپرسو + شیر + سیروپ کارامل ",
       "discount": 0
     },
     {
       "name": "کورتادو",
-      "price": 70000,
+      "price": 72000,
       "img": "/logoitem.png",
       "description": "اسپرسو + شیر",
       "discount": 0
     },
     {
       "name": "هات چاکلت",
-      "price": 75000,
+      "price": 88000,
       "img": "/logoitem.png",
       "description": "شکلات داغ +‌ شیر",
       "discount": 0
     },
     {
       "name": " هات چاکلت فندقی",
-      "price": 85000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": "شکلات +‌ شیر+ فندق",
       "discount": 0
@@ -100,7 +100,7 @@
     },
     {
       "name": "وایت چاکلت",
-      "price": 75000,
+      "price": 88000,
       "img": "/logoitem.png",
       "description": "شکلات سفید +‌ شیر",
       "discount": 0
@@ -114,14 +114,14 @@
     },
     {
       "name": "چای ماسالا",
-      "price": 70000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": "چای سیاه +‌شیر + ادویه",
       "discount": 0
     },
     {
       "name": "چای کرک",
-      "price": 70000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": " شیر + ادویه +‌ زعفران",
       "discount": 0
@@ -151,49 +151,49 @@
   "coldDrinks": [
     {
       "name": "آیس‌ لاته",
-      "price": 85000,
+      "price": 88000,
       "img": "/logoitem.png",
       "description": "اسپرسو  + شیر‌ + یخ",
       "discount": 0
     },
     {
       "name": "آیس‌ لاته فندقی",
-      "price": 90000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": "اسپرسو  + شیر‌+ سیروپ فندق + یخ",
       "discount": 0
     },
     {
       "name": " آیس موکا",
-      "price": 90000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": "اسپرسو + شیر +سیروپ شکلات + یخ",
       "discount": 0
     },
     {
       "name": " آیس کارامل ماکیاتو",
-      "price": 90000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": " اسپرسو + شیر + سیروپ کارامل + یخ",
       "discount": 0
     },
     {
       "name": "آیس آمریکانو",
-      "price": 65000,
+      "price": 68000,
       "img": "/logoitem.png",
       "description": " اسپرسو روبوستا 70/30 + آبجوش",
       "discount": 0
     },
     {
       "name": "آیس آمریکانو",
-      "price": 75000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": " اسپرسو عربیکا 80/20 + آبجوش",
       "discount": 0
     },
     {
       "name": "افاگاتو",
-      "price": 75000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": "اسپرسو + بستنی",
       "discount": 0
