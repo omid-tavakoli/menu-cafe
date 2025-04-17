@@ -2,14 +2,14 @@
   "hotDrinks": [
     {
       "name": "اسپرسو",
-      "price": 68000,
+      "price": 75000,
       "img": "/logoitem.png",
       "description": "قهوه اسپرسو عربیکا 80/20",
       "discount": 0
     },
     {
       "name": "اسپرسو",
-      "price": 58000,
+      "price": 65000,
       "img": "/logoitem.png",
       "description": "قهوه اسپرسو روبوستا 70/30",
       "discount": 0
@@ -44,28 +44,28 @@
     },
     {
       "name": "ماکیاتو",
-      "price": 59000,
+      "price": 68000,
       "img": "/logoitem.png",
       "description": "اسپرسو روبوستا 70/30 + شیر",
       "discount": 0
     },
     {
       "name": "ماکیاتو",
-      "price": 69000,
+      "price": 78000,
       "img": "/logoitem.png",
       "description": "اسپرسو عربیکا 80/20 + شیر",
       "discount": 0
     },
     {
       "name": "موکا",
-      "price": 92000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": "اسپرسو + شیر +سیروپ شکلات",
       "discount": 0
     },
     {
       "name": "کارامل ماکیاتو",
-      "price": 92000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": "  اسپرسو + شیر + سیروپ کارامل ",
       "discount": 0
@@ -127,6 +127,13 @@
       "discount": 0
     },
     {
+      "name": "قهوه ترک",
+      "price": 75000,
+      "img": "/logoitem.png",
+      "description": "قهوه ترک",
+      "discount": 0
+    },
+    {
       "name": "چای نبات",
       "price": 25000,
       "img": "/logoitem.png",
@@ -151,28 +158,28 @@
   "coldDrinks": [
     {
       "name": "آیس‌ لاته",
-      "price": 88000,
+      "price": 98000,
       "img": "/logoitem.png",
       "description": "اسپرسو  + شیر‌ + یخ",
       "discount": 0
     },
     {
       "name": "آیس‌ لاته فندقی",
-      "price": 98000,
+      "price": 108000,
       "img": "/logoitem.png",
       "description": "اسپرسو  + شیر‌+ سیروپ فندق + یخ",
       "discount": 0
     },
     {
       "name": " آیس موکا",
-      "price": 98000,
+      "price": 108000,
       "img": "/logoitem.png",
       "description": "اسپرسو + شیر +سیروپ شکلات + یخ",
       "discount": 0
     },
     {
       "name": " آیس کارامل ماکیاتو",
-      "price": 98000,
+      "price": 108000,
       "img": "/logoitem.png",
       "description": " اسپرسو + شیر + سیروپ کارامل + یخ",
       "discount": 0
@@ -196,6 +203,27 @@
       "price": 78000,
       "img": "/logoitem.png",
       "description": "اسپرسو + بستنی",
+      "discount": 0
+    },
+    {
+      "name": "آیس چاکلت",
+      "price": 108000,
+      "img": "/logoitem.png",
+      "description": "یخ + شکلات",
+      "discount": 0
+    },
+    {
+      "name": "آیس استرابری چاکلت",
+      "price": 110000,
+      "img": "/logoitem.png",
+      "description": "یخ + توت فرنگی + شکلات",
+      "discount": 0
+    },
+    {
+      "name": "آیس منگو چاکلت",
+      "price": 110000,
+      "img": "/logoitem.png",
+      "description": "یخ + شکلات +‌انبه",
       "discount": 0
     }
   ],
@@ -322,34 +350,34 @@
   "smoothie": [
     {
       "name": "فلامنکو",
-      "price": 115000,
+      "price": 128000,
       "img": "/logoitem.png",
       "description": "شاتوت + توت فرنگی + آب انگور + آب سیب",
       "discount": 0
     },
     {
       "name": "فلور بری",
-      "price": 135000,
+      "price": 148000,
       "img": "/logoitem.png",
       "description": "ماست میوه‌ای بری + شاتوت + توت فرنگی + آب انار",
       "discount": 0
     },
     {
       "name": "الوا",
-      "price": 130000,
+      "price": 140000,
       "img": "/logoitem.png",
       "description": "اواکادو + توت فرنگی +  هندوانه",
       "discount": 0
     },
     {
       "name": "کیوانا",
-      "price": 135000,
+      "price": 118000,
       "img": "/logoitem.png",
       "description": "اب زرد الو + هندوانه + کرم بادام زمینی +  کیوی",
       "discount": 0
     }
   ],
-  "macktail" : [
+  "macktail": [
     {
       "name": "لیموناد",
       "price": 85000,
@@ -366,71 +394,85 @@
     },
     {
       "name": "بلک وی",
-      "price": 120000,
+      "price": 130000,
       "img": "/logoitem.png",
       "description": "کیوی + لیمو + اسپرایت",
       "discount": 0
     },
     {
       "name": "رد زن",
-      "price": 110000,
+      "price": 120000,
       "img": "/logoitem.png",
       "description": "آب انار + آب آلو قرمز + لواشک + لیمو",
       "discount": 0
     },
     {
       "name": "ناریکا",
-      "price": 115000,
+      "price": 125000,
       "img": "/logoitem",
       "description": "نارنگی + انجیر + نعنا",
       "discount": 0
     },
     {
       "name": "استراکوک",
-      "price": 120000,
+      "price": 130000,
       "img": "/logoitem",
       "description": "توت فرنگی + لیمو + کوکا + نعنا",
       "discount": 0
     },
     {
       "name": "الوجین",
-      "price": 105000,
+      "price": 115000,
       "img": "/logoitem",
       "description": "زنجبیل + هافنبرگ کاکتوس + لیمو + اب الورا",
       "discount": 0
     }
   ],
-  "shake" : [
+  "shake": [
     {
       "name": "شیک نوتلا",
-      "price": 175000,
+      "price": 188000,
       "img": "/logoitem.png",
       "description": "نوتلا + بستنی",
       "discount": 0
     },
     {
       "name": "Cocoshake",
-      "price": 170000,
+      "price": 180000,
       "img": "/logoitem.png",
       "description": "شاتوت + بادام درختی + نارگیل",
       "discount": 0
     },
     {
       "name": "وانیل شکلاتی",
-      "price": 160000,
+      "price": 170000,
       "img": "/logoitem.png",
       "description": "شکلات سفید + کره بادام زمینی",
       "discount": 0
     },
     {
-      "name": "پروتئین زن",
-      "price": 165000,
+      "name": "شیک استرابری",
+      "price": 158000,
       "img": "/logoitem.png",
-      "description": "گردو + دارچین + موز",
+      "description": "توت فرنگی + شکلات + بستنی",
+      "discount": 0
+    },
+    {
+      "name": "شیک منگو",
+      "price": 158000,
+      "img": "/logoitem.png",
+      "description": "انبه + شکلات + بستنی",
+      "discount": 0
+    },
+    {
+      "name": "شیک شکلات",
+      "price": 168000,
+      "img": "/logoitem.png",
+      "description": "شکلات + بستنی",
       "discount": 0
     }
   ],
-  "syrup" : [
+  "syrup": [
     {
       "name": "سیروپ ایریش",
       "price": 8000,
