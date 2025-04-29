@@ -41,6 +41,12 @@
   .headerItem{
     @apply flex flex-col gap-2 items-center cursor-pointer w-20 sm:w-40;
   }
+  .headerItemParentImage{
+    @apply   flex justify-center items-center w-6 md:w-10 h-6 md:h-10;
+  }
+  .headerText{
+    @apply text-xs sm:text-sm md:text-xl tracking-tighter whitespace-nowrap
+  }
   .product {
     @apply rounded-2xl p-2 md:p-5 dark:bg-[#493628] bg-white shadow-sm;
   }
