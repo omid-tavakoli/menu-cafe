@@ -81,7 +81,7 @@ const App = () => {
                 </div>
                 <div className='headerText'>دمنوش</div>
               </div>
-              <div className={`headerItem ${category === 'machabar' ? 'bg-[#ffe3c2] text-zinc-800 rounded-md p-1' : ''}`} onClick={() => setCateGory('hotDrinks')}>
+              <div className={`headerItem ${category === 'machabar' ? 'bg-[#ffe3c2] text-zinc-800 rounded-md p-1' : ''}`} onClick={() => setCateGory('machabar')}>
                 <div className={`headerItemParentImage ${category === 'machabar' ? 'invert-0' : 'invert'}`}>
                   <img src='/icon/hotdrinks.png' alt='hotDrink' />
                 </div>
