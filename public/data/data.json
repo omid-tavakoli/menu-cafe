@@ -535,6 +535,13 @@
       "img": "",
       "description": "شکلات + بستنی",
       "discount": 0
+    },
+    {
+      "name": "پروتین ذن",
+      "price": 178000,
+      "img": "",
+      "description": "گردو + دارچین + موز + شیر",
+      "discount": 0
     }
   ],
   "syrup": [
