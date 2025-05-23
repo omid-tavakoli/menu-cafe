@@ -17,9 +17,9 @@ const App = () => {
       <div className='flex sm:block'>
         {/* header */}
         <header
-          className="sticky top-0 sm:fixed sm:top-9 sm:left-0 right-0 bottom-0 h-[100vh] w-24 sm:w-[90%] mx-auto z-50 flex sm:items-center  px-5 lg:px-7 xl:px-10  lg:py-5 bg-gray-500/50 dark:bg-[#493628] backdrop-blur-[6px] sm:h-28 sm:rounded-3xl text-white">
-          <div className="w-full flex  items-center tracking-tightest">
-            <nav className="flex flex-col justify-between sm:flex-row w-full items-center gap-x-5 xl:gap-x-9 sm:justify-center h-full py-10">
+          className="sticky top-0 sm:fixed sm:top-9 sm:left-0 right-0 bottom-0 h-[100vh] w-24 sm:w-[90%] mx-auto z-50 flex sm:items-center  px-1 lg:px-7 xl:px-10  lg:py-5 bg-gray-500/50 dark:bg-[#493628] backdrop-blur-[6px] sm:h-28 sm:rounded-3xl text-white">
+          <div className="w-full flex  items-center tracking-tightest py-10">
+            <nav className="flex flex-col justify-between sm:flex-row w-full items-center gap-y-5 gap-x-5 xl:gap-x-9 sm:justify-center h-full  overflow-y-scroll  overflow-x-hidden">
               <div className={`headerItem ${category === 'hotDrinks' ? 'bg-[#ffe3c2] text-zinc-800 rounded-md p-1' : ''}`} onClick={() => setCateGory('hotDrinks')}>
                 <div className={`headerItemParentImage ${category === 'hotDrinks' ? 'invert-0' : 'invert'}`}>
                   <img src='/icon/hotdrinks.png' alt='hotDrink' />
@@ -80,6 +80,12 @@ const App = () => {
                   <img src='/icon/damnush.png' alt='damnush' />
                 </div>
                 <div className='headerText'>دمنوش</div>
+              </div>
+              <div className={`headerItem ${category === 'machabar' ? 'bg-[#ffe3c2] text-zinc-800 rounded-md p-1' : ''}`} onClick={() => setCateGory('hotDrinks')}>
+                <div className={`headerItemParentImage ${category === 'machabar' ? 'invert-0' : 'invert'}`}>
+                  <img src='/icon/hotdrinks.png' alt='hotDrink' />
+                </div>
+                <div className='headerText'>ماچا  بار</div>
               </div>
               <div className={`headerItem ${category === 'smoothie' ? 'bg-[#ffe3c2] rounded-md p-1 py-3 text-zinc-800' : ''}`} onClick={() => setCateGory('smoothie')}>
                 <div className={`headerItemParentImage ${category === 'smoothie' ? 'invert-0' : 'invert'}`}>

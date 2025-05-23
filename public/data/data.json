@@ -17,21 +17,21 @@
     {
       "name": "آمریکانو",
       "price": 68000,
-      "img": "",
+      "img": "/images/menu/amerikano.jpg",
       "description": " اسپرسو روبوستا 70/30 + آبجوش",
       "discount": 0
     },
     {
       "name": "آمریکانو",
       "price": 78000,
-      "img": "",
+      "img": "/images/menu/amerikano.jpg",
       "description": " اسپرسو عربیکا 80/20 + آبجوش",
       "discount": 0
     },
     {
       "name": "کاپوچینو",
       "price": 78000,
-      "img": "",
+      "img": "/images/menu/late.jpg",
       "description": "اسپرسو  + شیر",
       "discount": 0
     },
@@ -45,35 +45,35 @@
     {
       "name": "ماکیاتو",
       "price": 68000,
-      "img": "",
+      "img": "/images/menu/late.jpg",
       "description": "اسپرسو روبوستا 70/30 + شیر",
       "discount": 0
     },
     {
       "name": "ماکیاتو",
       "price": 78000,
-      "img": "",
+      "img": "/images/menu/late.jpg",
       "description": "اسپرسو عربیکا 80/20 + شیر",
       "discount": 0
     },
     {
       "name": "موکا",
       "price": 98000,
-      "img": "",
+      "img": "/images/menu/late.jpg",
       "description": "اسپرسو + شیر +سیروپ شکلات",
       "discount": 0
     },
     {
       "name": "کارامل ماکیاتو",
       "price": 98000,
-      "img": "",
+      "img": "/images/menu/late.jpg",
       "description": "  اسپرسو + شیر + سیروپ کارامل ",
       "discount": 0
     },
     {
       "name": "کورتادو",
       "price": 72000,
-      "img": "",
+      "img": "/images/menu/late.jpg",
       "description": "اسپرسو + شیر",
       "discount": 0
     },
@@ -135,14 +135,14 @@
     },
     {
       "name": "چای نبات",
-      "price": 25000,
+      "price": 30000,
       "img": "/images/menu/chainabat.jpg",
       "description": "چای سیاه +‌ ‌ نبات",
       "discount": 0
     },
     {
       "name": "چای",
-      "price": 20000,
+      "price": 25000,
       "img": "",
       "description": "چای سیاه",
       "discount": 0
@@ -152,6 +152,36 @@
       "price": 10000,
       "img": "",
       "description": "‌‌ خرما ارده",
+      "discount": 0
+    }
+  ],
+  "machabar": [
+    {
+      "name": "ماچا لته",
+      "price": 98000,
+      "img": "",
+      "description": "ماچا + شیر",
+      "discount": 0
+    },
+    {
+      "name": "ایس ماجا",
+      "price": 100000,
+      "img": "",
+      "description": "یخ + ماچا + شیر",
+      "discount": 0
+    },
+    {
+      "name": "ایس کوکونات ماچا",
+      "price": 108000,
+      "img": "",
+      "description": "نارگیل + ماچا + شیر",
+      "discount": 0
+    },
+    {
+      "name": "ایس استرابری ماچا",
+      "price": 108000,
+      "img": "",
+      "description": "توت فرنگی + ماچا + شیر",
       "discount": 0
     }
   ],
@@ -166,14 +196,14 @@
     {
       "name": "آیس‌ لاته فندقی",
       "price": 108000,
-      "img": "",
+      "img": "/images/menu/icelate.jpg",
       "description": "اسپرسو  + شیر‌+ سیروپ فندق + یخ",
       "discount": 0
     },
     {
       "name": " آیس موکا",
       "price": 108000,
-      "img": "",
+      "img": "/images/menu/icemoka.jpg",
       "description": "اسپرسو + شیر +سیروپ شکلات + یخ",
       "discount": 0
     },
@@ -201,28 +231,28 @@
     {
       "name": "افاگاتو",
       "price": 78000,
-      "img": "",
+      "img": "/images/menu/afagato.jpg",
       "description": "اسپرسو + بستنی",
       "discount": 0
     },
     {
       "name": "آیس چاکلت",
       "price": 108000,
-      "img": "",
+      "img": "/images/menu/icechoklet.jpg",
       "description": "یخ + شکلات",
       "discount": 0
     },
     {
       "name": "آیس استرابری چاکلت",
       "price": 110000,
-      "img": "",
+      "img": "/images/menu/icestraberychoklet.jpg",
       "description": "یخ + توت فرنگی + شکلات",
       "discount": 0
     },
     {
       "name": "آیس منگو چاکلت",
       "price": 110000,
-      "img": "",
+      "img": "/images/menu/icemangochoklet.jpg",
       "description": "یخ + شکلات +‌انبه",
       "discount": 0
     }
@@ -230,51 +260,79 @@
   "desserts": [
     {
       "name": "کیک سه شیر",
-      "price": 0,
+      "price": 120000,
       "img": "",
       "description": "شیر +‌ شیر نارگیل + شیر عسل",
       "discount": 0
     },
     {
       "name": "کوکی",
-      "price": 0,
+      "price": 35000,
       "img": "",
       "description": "کوکی شکلاتی",
       "discount": 0
     },
     {
       "name": "کوکی رژیمی",
-      "price": 0,
+      "price": 40000,
       "img": "",
       "description": "کوکی شکلاتی",
       "discount": 0
     },
     {
-      "name": "کروسان",
-      "price": 0,
-      "img": "",
-      "description": "کروسان",
-      "discount": 0
-    },
-    {
-      "name": "چیز کیک",
-      "price": 0,
+      "name": "چیز کیک لوتوس",
+      "price": 130000,
       "img": "/images/menu/lutos.jpg",
       "description": " چیز کیک لوتوس",
       "discount": 0
     },
     {
-      "name": "باقلوا ترکی",
-      "price": 0,
-      "img": "",
-      "description": "باقلوا ترکی",
+      "name": "پاریس برست",
+      "price": 130000,
+      "img": "/images/menu/parisperes.jpg",
+      "description": "پاریس برست",
       "discount": 0
     },
     {
-      "name": "پاریس برست",
-      "price": 0,
-      "img": "/images/menu/parisperes.jpg",
-      "description": "پاریس برست",
+      "name": "چیز کیک ارويو",
+      "price": 130000,
+      "img": "",
+      "description": " چیز کیک ارويو",
+      "discount": 0
+    },
+    {
+      "name": "اکلر",
+      "price": 100000,
+      "img": "/images/menu/ekler.jpg",
+      "description": " چیز کیک لوتوس",
+      "discount": 0
+    },
+    {
+      "name": "دبل چاکلت",
+      "price": 100000,
+      "img": "",
+      "description": "  کیک دبل چاکلت",
+      "discount": 0
+    },
+    {
+      "name": "چیز کیک موکا",
+      "price": 140000,
+      "img": "",
+      "description": "چیز کیک موکا",
+      "discount": 0
+    },
+    {
+      "name": "هویج گردو",
+      "price": 80000,
+      "img": "",
+      "description": "هویج گردو",
+      "discount": 0
+    },
+    {
+      "name": "چیز کیک نوتلا",
+      "price": 120000,
+      "img": "",
+      "description": "چیز کیک نوتلا",
       "discount": 0
     }
   ],
@@ -305,35 +363,35 @@
     {
       "name": "استرابری کیس",
       "price": 60000,
-      "img": "",
+      "img": "/images/menu/estraberykiss.jpg",
       "description": "توت فرنگی+ انبه + اناناس + سیب + پاپایا +‌شیرین بیان + آلوئه ورا",
       "discount": 0
     },
     {
       "name": "پینک رز",
       "price": 60000,
-      "img": "",
+      "img": "/images/menu/pinkrose.jpg",
       "description": "گل محمدی+  گل لاواندر + گل بابونه",
       "discount": 0
     },
     {
       "name": "لاوندر دریم",
       "price": 60000,
-      "img": "",
+      "img": "/images/menu/lavender.jpg",
       "description": "چای سیز + برگ لاوند +‌ گل لاوند",
       "discount": 0
     },
     {
       "name": "شیراز",
       "price": 40000,
-      "img": "",
+      "img": "/images/menu/shiraz.jpg",
       "description": "به + گلابی + غنچه یاس + پوست پرتغال",
       "discount": 0
     },
     {
       "name": "راه ابریشم",
       "price": 40000,
-      "img": "",
+      "img": "/images/menu/shiraz.jpg",
       "description": "چای سبز +‌اناناس + به لیمو + لمون گرس + استویا",
       "discount": 0
     }
@@ -388,21 +446,21 @@
     {
       "name": "لیموناد",
       "price": 85000,
-      "img": "",
+      "img": "/images/menu/limonad.jpg",
       "description": "لیمو + یخ + آب سودا",
       "discount": 0
     },
     {
       "name": "موهیتو",
       "price": 90000,
-      "img": "",
+      "img": "/images/menu/mohito.jpg",
       "description": "لیمو + نعنا + یخ",
       "discount": 0
     },
     {
       "name": "بلک وی",
       "price": 130000,
-      "img": "",
+      "img": "/images/menu/blackway.jpg",
       "description": "کیوی + لیمو + اسپرایت",
       "discount": 0
     },
@@ -416,21 +474,21 @@
     {
       "name": "ناریکا",
       "price": 125000,
-      "img": "/logoitem",
+      "img": "",
       "description": "نارنگی + انجیر + نعنا",
       "discount": 0
     },
     {
       "name": "استراکوک",
       "price": 130000,
-      "img": "/logoitem",
+      "img": "",
       "description": "توت فرنگی + لیمو + کوکا + نعنا",
       "discount": 0
     },
     {
       "name": "الوجین",
       "price": 115000,
-      "img": "/logoitem",
+      "img": "/images/menu/alojin.jpg",
       "description": "زنجبیل + هافنبرگ کاکتوس + لیمو + اب الورا",
       "discount": 0
     }
