@@ -50,8 +50,12 @@ git clone https://github.com/omidtavakoli/zen-cafe-menu.git
 cd zen-cafe-menu
 npm install
 npm run dev
+````
+---
 
 ## 👨‍💻 My Role
+
+
 Designed and implemented the entire UI/UX
 
 Built the project from scratch using React and TypeScript
@@ -61,4 +65,5 @@ Managed domain and hosting setup
 Created and distributed QR codes for use in the café
 
 ## 🔗 Links
+
 🌐 Live Website: https://zen-cafe.ir/
