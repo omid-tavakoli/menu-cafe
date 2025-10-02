@@ -1,50 +1,69 @@
-# React + TypeScript + Vite
+# 📱 Digital Menu – Zen Café
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive digital menu built for **Zen Café**, accessible via QR code scanning on each table. Built with **React**, **TypeScript**, and **Vite**, the project delivers a clean and fast user experience optimized for both mobile and desktop users.
 
-Currently, two official plugins are available:
+👉 [Live Demo](https://zen-cafe.ir/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📝 Overview
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Zen Café Digital Menu is a clean and efficient solution for replacing traditional printed menus. Customers simply scan a QR code on their table to access the full menu directly from their device, without needing to install any app or log in.
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 🎯 Purpose
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+- Provide a digital alternative to printed menus.
+- Improve hygiene and reduce printing costs.
+- Deliver a modern, mobile-friendly experience.
+- Ensure fast access to menu items with clear categorization.
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+---
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## ⚙️ Technologies Used
+
+- **React** – Frontend framework  
+- **TypeScript** – Type-safe development  
+- **Vite** – Lightning-fast development & bundling  
+- **TailwindCSS** – Utility-first CSS framework  
+
+---
+
+## 🌟 Features
+
+- Custom-designed UI/UX  
+- Fully responsive layout for mobile and desktop  
+- Categorized menu: Cold Drinks, Hot Drinks, Desserts, and Food  
+- Live deployment on a custom domain  
+- Instant access via QR code (no app needed)  
+- Lightweight and fast-loading web app
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/omidtavakoli/zen-cafe-menu.git
+cd zen-cafe-menu
+npm install
+npm run dev
+````
+---
+
+## 👨‍💻 My Role
+
+
+Designed and implemented the entire UI/UX
+
+Built the project from scratch using React and TypeScript
+
+Managed domain and hosting setup
+
+Created and distributed QR codes for use in the café
+
+## 🔗 Links
+
+🌐 Live Website: https://zen-cafe.ir/
